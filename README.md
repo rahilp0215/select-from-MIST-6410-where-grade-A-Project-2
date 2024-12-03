@@ -91,6 +91,8 @@ Our data model stores a range of data regarding college football over several se
 
 ## Queries:
 
+<img width="491" alt="Screenshot 2024-12-01 at 6 22 51 PM" src="https://github.com/user-attachments/assets/799b1ac6-5b8e-4d59-bdec-593cdc8215d8">
+
 
 
 ## Visualzations:
